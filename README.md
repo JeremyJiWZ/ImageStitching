@@ -17,3 +17,16 @@ test result:<br>
 total time:  , final image: <br>
 
 ##2.FiJi
+
+implemented in java<br>
+test result:<br>
+total time:  , final image: <br>
+
+
+##3.bolismauro
+web-page: https://github.com/bolismauro/Panorama-creator<br>
+algorithm overview: A Matlab Image stitching implementation using SIFT and RANSAC.<br>
+implemented in matlab<br>
+test result:<br>
+total time:  , final image: <br>
+
