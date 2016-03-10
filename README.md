@@ -30,3 +30,9 @@ implemented in matlab<br>
 test result:<br>
 total time:  , final image: <br>
 
+##4.Open-CV standard stitching
+just use open-cv image stitching algorithm to stitch images<br>
+source code: https://github.com/prateekvjoshi/PanoStitch<br>
+implemented in c++.<br>
+total time: , final image: <br>
+
