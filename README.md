@@ -19,8 +19,10 @@ step3: using RANSAC algorithm to find the inliers of the correspondence pairs an
 step4: using the estimated homography matrix to transform img1 to the coordinate system of img2<br>
 step5: merge<br>
 implemented in matlab<br>
-test result:<br>
-total time:  , final image: <br>
+total time: 33.591s ,<br>
+final image: <br>
+`It just doesn't work on these input images`<br>
+![](https://github.com/JeremyJiWZ/ImageStitching/raw/master/tongji/result.png)
 
 ##2.FiJi
 
@@ -33,8 +35,11 @@ total time:  , final image: <br>
 web-page: https://github.com/bolismauro/Panorama-creator<br>
 algorithm overview: A Matlab Image stitching implementation using SIFT and RANSAC.<br>
 implemented in matlab<br>
-test result:<br>
-total time:  , final image: <br>
+total time: 86.737s ,<br>
+final image: <br>
+`It just doesn't work on these input images`<br>
+![](https://github.com/JeremyJiWZ/ImageStitching/raw/master/Panorama-creator-master/result.png)
+
 
 ##4.Open-CV standard stitching
 just use open-cv image stitching algorithm to stitch images<br>
