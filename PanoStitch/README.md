@@ -8,8 +8,8 @@ the steps below to get it up and running:
 
 	$ cmake .
 	$ make
-	$ ./main IMG_0013.JPG IMG_0014.JPG IMG_0015.JPG IMG_0016.JPG
+	$ ./main test1.jpg test2.jpg test3.jpg test4.jpg
 
 The output should be stored in "panoResult.jpg". You can change the output file name using the following flag:
 
-	$ ./main IMG_0013.JPG IMG_0014.JPG IMG_0015.JPG IMG_0016.JPG --output myOutput.jpg
+	$ ./main test1.jpg test2.jpg test3.jpg test4.jpg --output myOutput.jpg
