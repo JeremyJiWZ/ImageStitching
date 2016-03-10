@@ -1,0 +1,1 @@
+/Users/jiwentadashi/programm/Image_Stitching/PanoStitch/CMakeFiles/main.dir
