@@ -39,6 +39,6 @@ total time:  , final image: <br>
 ##4.Open-CV standard stitching
 just use open-cv image stitching algorithm to stitch images<br>
 implemented in c++.<br>
-total time: 8386358ms,<br>
+total time: 2335ms,<br>
 final image: ![](https://github.com/JeremyJiWZ/ImageStitching/raw/master/PanoStitch/panoResult.jpg)<br>
 
