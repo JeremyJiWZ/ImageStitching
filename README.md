@@ -1,8 +1,14 @@
 # ImageStitching
 image stitching algorithms from the internet
+===============
 
 ##Test Image Statement
-images were photoed by iphone 5, using 4 images to test a algorithm
+images were photoed by iphone 5, using 4 images to test a algorithm<br>
+the image is shown as follow:<br>
+![](https://github.com/JeremyJiWZ/ImageStitching/raw/master/images/test1.jpg)
+![](https://github.com/JeremyJiWZ/ImageStitching/raw/master/images/test2.jpg)
+![](https://github.com/JeremyJiWZ/ImageStitching/raw/master/images/test3.jpg)
+![](https://github.com/JeremyJiWZ/ImageStitching/raw/master/images/test4.jpg)
 
 ##1.TongJi-algorithm
 web-page: http://sse.tongji.edu.cn/linzhang/CV14/Projects/panorama.htm<br>
@@ -32,7 +38,7 @@ total time:  , final image: <br>
 
 ##4.Open-CV standard stitching
 just use open-cv image stitching algorithm to stitch images<br>
-source code: https://github.com/prateekvjoshi/PanoStitch<br>
 implemented in c++.<br>
-total time: , final image: <br>
+total time: 8386358ms,<br>
+final image: ![](https://github.com/JeremyJiWZ/ImageStitching/raw/master/PanoStitch/panoResult.jpg)<br>
 
